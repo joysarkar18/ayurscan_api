@@ -1,7 +1,7 @@
 import numpy as np
 import tensorflow as tf
 import json
-import joblib
+# import joblib
 from keras.models import load_model
 from keras.applications.vgg19 import preprocess_input, decode_predictions
 import matplotlib.pyplot as plt
